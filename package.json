@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^4.24.1",
+    "pdfcrowd": "^5.17.0"
+  }
+}
