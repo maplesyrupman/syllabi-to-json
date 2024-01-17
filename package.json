@@ -1,6 +1,11 @@
 {
+  "name": "convert-syllabi",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "openai": "^4.24.1",
     "pdfcrowd": "^5.17.0"
+  },
+  "bin": {
+    "convert-syllabi": "./script.js"
   }
 }
